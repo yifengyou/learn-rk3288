@@ -33,7 +33,7 @@ apt-get install -y git-core gnupg flex bison build-essential \
   lib32ncurses5-dev x11proto-core-dev libx11-dev lib32z1-dev \
   libgl1-mesa-dev libxml2-utils xsltproc unzip fontconfig \
   screen lrzsz openjdk-8-jdk openjdk-8-jre net-tools python python3 \
-  vim bcc lzop rsync
+  vim lzop rsync bc
 ```
 
 ## 配置repo工具
